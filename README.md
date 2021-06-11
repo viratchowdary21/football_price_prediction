@@ -7,6 +7,8 @@ Data visualization plays a key role when it comes to quick analysis and simple u
 
 ## Regression Models:
 Models are called either interpretable or flexible. 
+
+
 ![image](https://user-images.githubusercontent.com/64622055/121662710-492c3700-cac3-11eb-90db-20d4397e11dd.png)
  
 I have implemented some regression models. They are
